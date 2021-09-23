@@ -1,5 +1,8 @@
 _repo: South-Africa-vol-I_66342
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66342-h/images/cover.jpg
 creator:
   author:
     agent_name: Trollope, Anthony
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/324
     wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66342#South-Africa-vol-I
 gutenberg_issued: '2021-09-19'
 identifiers:
   gutenberg: '66342'
